@@ -77,4 +77,5 @@ if __name__ == "__main__":
         print(braille_to_english(input_text))
     else:
         print(english_to_braille(input_text))
+# This is a minor change for testing the pull request.
 
